@@ -34,7 +34,7 @@ const Navbar = () => {
       
         <div className="Items">
           <button className="navButtonhome">Home</button>
-          <button className="navButtonhome">Accomodation</button>
+          <button className="navButtonhome" >Accomodation</button>
           <button className="navButtonhome">Facilities</button>
           <button className="navButtonhome">Promotion</button>
           
